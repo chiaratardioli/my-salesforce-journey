@@ -73,6 +73,8 @@ This allowed the Priority field to update automatically while typing in the Subj
 
 ![Reactive Priority Selection](./images/SF-01-reactive-priority-selection.png)
 
+![Priority selection Behavior](./images/SF-01-priority-selection-behavior.png)
+
 ---
 
 ## Task 4 — Calculate a Date Reactively
@@ -101,6 +103,10 @@ The Due Date updated reactively whenever the user changed the priority or moved 
 ![Due Date Formula](./images/SF-01-due-date-formula.png)
 
 ![Reactive Due Date Calculation](./images/SF-01-reactive-due-date-calculation.png)
+
+![Due Date Calculation HIGH Behavior](./images/SF-01-due-date-calculation-behavior-high.png)
+
+![Due Date Calculation MEDIUM Behavior](./images/SF-01-due-date-calculation-behavior-medium.png)
 
 ---
 
