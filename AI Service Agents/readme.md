@@ -6,8 +6,6 @@ This project demonstrates the creation of an AI-powered customer service agent u
 
 The implementation combined Salesforce Flow automation, AI-driven reasoning, Experience Cloud integration, and embedded messaging to deliver an interactive customer support solution.
 
-![Agentforce Overview](./images/AI-01-agentforce-overview.png)
-
 ---
 
 ## Project Objectives
@@ -20,7 +18,22 @@ The agent was designed to support the following customer service tasks:
 - Book customer reservations directly through Salesforce
 - Deliver a conversational support experience through Experience Cloud
 
-![Project Objectives](./images/AI-01-project-objectives.png)
+---
+
+## Architecture
+```AI-Service-Agent-Architecture
+[ Experience Cloud UI ]
+          ↓
+[ Embedded Messaging ]
+          ↓
+[ Agentforce AI Layer ]
+          ↓
+[ Subagents + Actions ]
+          ↓
+[ Flow Builder ]
+          ↓
+[ Salesforce CRM Data ]
+```
 
 ---
 
@@ -43,8 +56,6 @@ The agent was designed to support the following customer service tasks:
 - AI-assisted configuration
 - Action orchestration
 - Dynamic conversation handling
-
-![Salesforce Components](./images/AI-01-salesforce-components.png)
 
 ---
 
@@ -122,6 +133,8 @@ This action retrieved information about resort experiences.
 
 ![Get Experience Details Action](./images/AI-01-get-experience-details-action.png)
 
+![Get Experience Details Input Action](./images/AI-01-get-experience-details-action-inputs.png)
+
 ---
 
 ### Get Customer Details
@@ -195,6 +208,11 @@ Example customer interaction:
 The agent requested customer verification before retrieving information and booking sessions.
 
 ![Agent Preview Testing](./images/AI-01-agent-preview-testing.png)
+
+Since Live Test Mode was enabled, the agent executed real transactions in the Salesforce org. As a result, a booking was created for Sofia Rodriguez, confirming an experience reservation scheduled for May 25, 2026.
+
+![Agent Live Test Data](./images/AI-01-agent-live-test-data.png)
+
 
 ---
 
