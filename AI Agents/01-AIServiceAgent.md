@@ -6,7 +6,7 @@ This project demonstrates the creation of an AI-powered customer service agent u
 
 The implementation combined Salesforce Flow automation, AI-driven reasoning, Experience Cloud integration, and embedded messaging to deliver an interactive customer support solution.
 
-![Agentforce Overview](./images/SF-02-agentforce-overview.png)
+![Agentforce Overview](./images/AI-01-agentforce-overview.png)
 
 ---
 
@@ -20,7 +20,7 @@ The agent was designed to support the following customer service tasks:
 - Book customer reservations directly through Salesforce
 - Deliver a conversational support experience through Experience Cloud
 
-![Project Objectives](./images/SF-02-project-objectives.png)
+![Project Objectives](./images/AI-01-project-objectives.png)
 
 ---
 
@@ -44,7 +44,7 @@ The agent was designed to support the following customer service tasks:
 - Action orchestration
 - Dynamic conversation handling
 
-![Salesforce Components](./images/SF-02-salesforce-components.png)
+![Salesforce Components](./images/AI-01-salesforce-components.png)
 
 ---
 
@@ -60,7 +60,7 @@ The first step involved creating a new service agent inside Agentforce Studio.
 
 The agent was configured with access permissions using the EinsteinServiceAgent user profile.
 
-![Service Agent Setup](./images/SF-02-service-agent-setup.png)
+![Service Agent Setup](./images/AI-01-service-agent-setup.png)
 
 ---
 
@@ -87,7 +87,7 @@ Supported:
 
 Used natural language prompts to update instructions and configuration.
 
-![Agentforce Builder Interface](./images/SF-02-agentforce-builder-interface.png)
+![Agentforce Builder Interface](./images/AI-01-agentforce-builder-interface.png)
 
 ---
 
@@ -102,7 +102,7 @@ A dedicated subagent named `Experience Management` was created to handle all cus
 - Manage reservations
 - Handle session selection
 
-![Experience Management Subagent](./images/SF-02-experience-management-subagent.png)
+![Experience Management Subagent](./images/AI-01-experience-management-subagent.png)
 
 ---
 
@@ -120,7 +120,7 @@ This action retrieved information about resort experiences.
 - Required customer context
 - Returned experience information to the conversation
 
-![Get Experience Details Action](./images/SF-02-get-experience-details-action.png)
+![Get Experience Details Action](./images/AI-01-get-experience-details-action.png)
 
 ---
 
@@ -132,7 +132,7 @@ This action validated customer identity using:
 
 The action returned the related Salesforce Contact record.
 
-![Get Customer Details Action](./images/SF-02-get-customer-details-action.png)
+![Get Customer Details Action](./images/AI-01-get-customer-details-action.png)
 
 ---
 
@@ -147,7 +147,7 @@ These actions allowed the AI agent to:
 - Retrieve available activity sessions
 - Create booking records directly in Salesforce
 
-![Asset Library Actions](./images/SF-02-asset-library-actions.png)
+![Asset Library Actions](./images/AI-01-asset-library-actions.png)
 
 ---
 
@@ -164,7 +164,7 @@ The agent was configured to:
 4. Retrieve sessions using experience IDs
 5. Create bookings with selected sessions and guest counts
 
-![Subagent Instructions](./images/SF-02-subagent-instructions.png)
+![Subagent Instructions](./images/AI-01-subagent-instructions.png)
 
 ---
 
@@ -174,7 +174,7 @@ Script View allowed direct editing of the agent instructions and logic.
 
 Additional booking instructions were added manually to improve session booking behavior and data handling.
 
-![Script View Editing](./images/SF-02-script-view-editing.png)
+![Script View Editing](./images/AI-01-script-view-editing.png)
 
 ---
 
@@ -194,7 +194,7 @@ Example customer interaction:
 
 The agent requested customer verification before retrieving information and booking sessions.
 
-![Agent Preview Testing](./images/SF-02-agent-preview-testing.png)
+![Agent Preview Testing](./images/AI-01-agent-preview-testing.png)
 
 ---
 
@@ -209,7 +209,7 @@ The agent was integrated into the Coral Cloud Experience Cloud website using Emb
 - Connected the service agent
 - Added the messaging component to the site
 
-![Experience Cloud Integration](./images/SF-02-experience-cloud-integration.png)
+![Experience Cloud Integration](./images/AI-01-experience-cloud-integration.png)
 
 ---
 
@@ -226,9 +226,9 @@ Customers could interact with the AI agent directly from the Experience Cloud we
 
 The conversational workflow provided a guided customer support experience connected directly to Salesforce CRM data.
 
-![Customer Conversation Demo](./images/SF-02-customer-conversation-demo.png)
+![Customer Conversation Demo](./images/AI-01-customer-conversation-demo.png)
 
-![Booking Confirmation](./images/SF-02-booking-confirmation.png)
+![Booking Confirmation](./images/AI-01-booking-confirmation.png)
 
 ---
 
@@ -251,7 +251,7 @@ The conversational workflow provided a guided customer support experience connec
 - AI Action Orchestration
 - Customer Service Automation
 
-![Skills Demonstrated](./images/SF-02-skills-demonstrated.png)
+![Skills Demonstrated](./images/AI-01-skills-demonstrated.png)
 
 ---
 
@@ -263,4 +263,4 @@ By combining conversational AI, Salesforce Flows, custom actions, and Experience
 
 The implementation also highlighted the importance of AI instruction design, secure customer validation, and workflow orchestration when building enterprise AI agents inside the Salesforce ecosystem.
 
-![Final Project Overview](./images/SF-02-final-project-overview.png)
+![Final Project Overview](./images/AI-01-final-project-overview.png)
