@@ -248,12 +248,12 @@ Customers interacted with the AI agent directly through the Experience Cloud web
 
 The conversational workflow provided a guided customer support experience that was fully connected to Salesforce CRM data and automated backend processes.
 
-![Customer Conversation Demo](./images/ai-01-customer-conversation-demo-1.png)
-![Customer Conversation Demo](./images/ai-01-customer-conversation-demo-2.png)
+![Customer Conversation Demo](./images/AI-01-customer-conversation-demo-1.png)
+![Customer Conversation Demo](./images/AI-01-customer-conversation-demo-2.png)
 
 Below is the updated Salesforce Contact record for Sofia Rodriguez after the booking was completed through the website interaction.
 
-![Booking Confirmation](./images/ai-01-booking-confirmation.png)
+![Booking Confirmation](./images/AI-01-booking-confirmation.png)
 
 ---
 
