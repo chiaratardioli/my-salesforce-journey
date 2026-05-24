@@ -207,7 +207,10 @@ Example customer interaction:
 
 The agent requested customer verification before retrieving information and booking sessions.
 
-![Agent Preview Testing](./images/AI-01-agent-preview-testing.png)
+![Agent Preview Testing](./images/AI-01-agent-preview-testing-1.png)
+![Agent Preview Testing](./images/AI-01-agent-preview-testing-2.png)
+![Agent Preview Testing](./images/AI-01-agent-preview-testing-3.png)
+![Agent Preview Testing](./images/AI-01-agent-preview-testing-4.png)
 
 Since Live Test Mode was enabled, the agent executed real transactions in the Salesforce org. As a result, a booking was created for Sofia Rodriguez, confirming an experience reservation scheduled for May 25, 2026.
 
@@ -223,30 +226,34 @@ The agent was integrated into the Coral Cloud Experience Cloud website using Emb
 ### Deployment Steps
 
 - Published Embedded Service Deployment
-- Updated the routing flow
-- Connected the service agent
+- Updated the routing flow to the service agent
 - Added the messaging component to the site
 
-![Experience Cloud Integration](./images/AI-01-experience-cloud-integration.png)
+![Experience Cloud Integration](./images/AI-01-experience-cloud-integration-ESD.png)
+![Experience Cloud Integration](./images/AI-01-experience-cloud-integration-routing.png)
+![Experience Cloud Integration](./images/AI-01-experience-cloud-integration-site.png)
 
 ---
 
 ## Customer Experience Demonstration
 
-Customers could interact with the AI agent directly from the Experience Cloud website.
+Customers interacted with the AI agent directly through the Experience Cloud website, simulating a real-world customer support and booking scenario.
 
 ### Supported Capabilities
 
-- Ask about resort experiences
-- Verify account details
-- View available sessions
-- Complete activity bookings
+- Ask about resort experiences  
+- Verify account details  
+- View available sessions  
+- Complete activity bookings  
 
-The conversational workflow provided a guided customer support experience connected directly to Salesforce CRM data.
+The conversational workflow provided a guided customer support experience that was fully connected to Salesforce CRM data and automated backend processes.
 
-![Customer Conversation Demo](./images/AI-01-customer-conversation-demo.png)
+![Customer Conversation Demo](./images/ai-01-customer-conversation-demo-1.png)
+![Customer Conversation Demo](./images/ai-01-customer-conversation-demo-2.png)
 
-![Booking Confirmation](./images/AI-01-booking-confirmation.png)
+Below is the updated Salesforce Contact record for Sofia Rodriguez after the booking was completed through the website interaction.
+
+![Booking Confirmation](./images/ai-01-booking-confirmation.png)
 
 ---
 
@@ -269,8 +276,6 @@ The conversational workflow provided a guided customer support experience connec
 - AI Action Orchestration
 - Customer Service Automation
 
-![Skills Demonstrated](./images/AI-01-skills-demonstrated.png)
-
 ---
 
 ## Conclusion
@@ -280,5 +285,3 @@ This project demonstrated how Salesforce Agentforce can be used to build intelli
 By combining conversational AI, Salesforce Flows, custom actions, and Experience Cloud deployment, the solution provided an end-to-end customer support and reservation management experience.
 
 The implementation also highlighted the importance of AI instruction design, secure customer validation, and workflow orchestration when building enterprise AI agents inside the Salesforce ecosystem.
-
-![Final Project Overview](./images/AI-01-final-project-overview.png)
