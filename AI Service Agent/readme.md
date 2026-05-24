@@ -285,3 +285,15 @@ This project demonstrated how Salesforce Agentforce can be used to build intelli
 By combining conversational AI, Salesforce Flows, custom actions, and Experience Cloud deployment, the solution provided an end-to-end customer support and reservation management experience.
 
 The implementation also highlighted the importance of AI instruction design, secure customer validation, and workflow orchestration when building enterprise AI agents inside the Salesforce ecosystem.
+
+---
+
+## References
+
+1. [Trailhead: Build with Agentforce Builder](https://trailhead.salesforce.com/content/learn/modules/quick-start-assemble-a-service-agent-with-agentforce-builder/build-with-agentforce-builder?trailmix_creator_id=teamtrailhead&trailmix_slug=quest-tdx-2026)
+
+2. [Salesforce Help: Create Agents in Record Time with Agentforce Implementation Guides](https://help.salesforce.com/s/articleView?id=ai.agent_resources.htm&type=5)
+
+3. [Website: Salesforce AI Use Case Library](https://www.salesforce.com/artificial-intelligence/use-cases/)
+
+4. [Agentforce Developer Guide: Agent Script Reference](https://developer.salesforce.com/docs/ai/agentforce/guide/ascript-reference.html)
