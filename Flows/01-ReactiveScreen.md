@@ -33,9 +33,9 @@ After creating the components, I saved the flow as **New Bug Case**.
 
 ## Task 2 — Disable Fields Reactively
 
-Next, I configured the flow so that the Subject and Description fields became disabled when the confirmation checkbox was selected.
+Next, I configured the flow so that the Subject field became disabled when the confirmation checkbox was selected.
 
-I updated the **Disabled** property of both components to reference the Confirmation checkbox value. This allowed the fields to 
+I updated the **Disabled** property of the component to reference the Confirmation checkbox value. This allowed the fields to 
 react instantly whenever the checkbox state changed.
 
 This implementation demonstrated how reactive components can dynamically control other components on the same screen.
