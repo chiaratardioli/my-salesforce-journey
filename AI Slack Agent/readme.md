@@ -22,7 +22,12 @@ Through this module, I learned how Slackbot integrates with enterprise systems s
 - Enterprise AI security awareness
 - Workflow optimization and collaboration tools
 
-## Business Value
+## Prepare the data
+
+- Create a new playgroung and get the pwd and the url domain
+- Open the opportunity United Oil Refinery Generators in stage *Proposal/Price Quote* and changed the close date to next month.
+
+## Conclusion
 
 This project demonstrated how AI assistants can reduce time spent searching for information, improve collaboration efficiency, and help teams make faster, more informed decisions using existing workplace data and communication history.
 
