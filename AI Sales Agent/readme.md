@@ -206,7 +206,7 @@ The project also reinforced how enterprise AI systems can reduce administrative 
 
 
 ## Resources
-- [Sales Pipeline Management with Agents](https://trailhead.salesforce.com/content/learn/modules/build-an-agent-to-manage-your-pipeline?trailmix_creator_id=teamtrailhead&trailmix_slug=quest-tdx-2026)
+- [Trailhead: Sales Pipeline Management with Agents](https://trailhead.salesforce.com/content/learn/modules/build-an-agent-to-manage-your-pipeline?trailmix_creator_id=teamtrailhead&trailmix_slug=quest-tdx-2026)
 - [Salesforce Help: Agentforce Pipeline Management](https://help.salesforce.com/s/articleView?id=sales.pipeline_mgmt_parent.htm&type=5)
 - [Salesforce Help: Considerations for Agentforce Pipeline Management](https://help.salesforce.com/s/articleView?id=sales.pipeline_mgmt_considerations.htm&type=5)
 - [Salesforce Help: Agentforce Pipeline Management Overview](https://help.salesforce.com/s/articleView?id=sales.pipeline_mgmt_overview.htm&type=5)
