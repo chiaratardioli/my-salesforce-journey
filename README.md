@@ -1,4 +1,6 @@
-# AI-Powered Salesforce Agents
+# My Salesforce Journey
+
+## AI-Powered Salesforce Agents
 
 <p align="center">
   <a href="./AI%20Service%20Agent/readme.md">
@@ -31,6 +33,6 @@
 </p>
 
 
-## Other resources
+## Salesforce Flows
 
 - [FLOW: Reactive Screen](./Flows/01-ReactiveScreen.md)
