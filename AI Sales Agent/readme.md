@@ -1,4 +1,4 @@
-# Agentforce Pipeline Management Report
+# Agentforce Pipeline Management
 
 ## Overview
 
@@ -8,28 +8,47 @@ The project combined Agentforce for Sales, Salesforce Flow automation, Einstein 
 
 ![Pipeline Management Overview](./images/ai-02-pipeline-management-overview.png)
 
+---
 
+## Project Objectives
 
-## Key Features Implemented
-
-- Enabled Agentforce for Sales using Salesforce Go
-- Configured Pipeline Management features and supporting flows
-- Enabled AI-driven opportunity management recommendations
-- Configured Conversation Intelligence and Einstein Activity Capture
-- Enabled Inbox integration for sales productivity
-- Customized Pipeline Management flows and opportunity updates
-- Updated Opportunity page layouts with Notes related lists
-- Configured organization and user timezone settings for accurate automation timing
-
-## AI Capabilities Explored
-
-The project demonstrated how AI can:
+The project was designed to demonstrate how AI can:
 - Recommend opportunity field updates
 - Surface important customer interactions
 - Suggest follow-up actions
 - Improve sales pipeline visibility
 - Automate repetitive sales management tasks
 - Help sales representatives prioritize high-impact work
+
+---
+
+## Architecture
+
+```AI-Sales-Pipeline-Management-Architecture
+[ Sales Representative ]
+          ↓
+[ Opportunity Record ]
+          ↓
+[ Notes / Emails / Meetings ]
+          ↓
+[ Salesforce Flow Automation ]
+          ↓
+[ Agentforce Pipeline Management ]
+          ↓
+[ Einstein Activity Capture ]
+          ↓
+[ AI Analysis & Recommendations ]
+          ↓
+[ Opportunity Inspection Workspace ]
+          ↓
+[ Suggested Next Steps & Field Updates ]
+          ↓
+[ Salesforce CRM Data ]
+```
+
+The architecture demonstrated how Salesforce AI services process sales activities and opportunity interactions to generate intelligent recommendations and automate pipeline management tasks directly inside the CRM workflow.
+
+---
 
 ## Salesforce Technologies Used
 
@@ -42,6 +61,8 @@ The project demonstrated how AI can:
 - Salesforce Flow Automation
 - Opportunity Management
 - Inbox Integration
+
+---
 
 ## Task 1 — Enable Agentforce Pipeline Management
 
@@ -58,7 +79,8 @@ I enabled the following supporting capabilities:
 
 This setup allowed the AI agent to analyze seller interactions and generate intelligent recommendations based on notes, emails, and customer conversations.
 
-![Salesforce Go Configuration](./images/ai-02-salesforce-go-configuration.png)
+![Salesforce Go Configuration](./images/ai-02-salesforce-go-configuration-1.png)
+![Salesforce Go Configuration](./images/ai-02-salesforce-go-configuration-2.png)
 
 ## Task 2 — Configure Opportunity Management Features
 
@@ -146,7 +168,20 @@ This demonstrated how AI-powered sales automation can improve CRM accuracy and a
 
 ![Opportunity AI Updates](./images/ai-02-opportunity-ai-updates.png)
 
-## Skills Demonstrated
+---
+
+## Key Features Implemented
+
+- Enabled Agentforce for Sales using Salesforce Go
+- Configured Pipeline Management features and supporting flows
+- Enabled AI-driven opportunity management recommendations
+- Configured Conversation Intelligence and Einstein Activity Capture
+- Enabled Inbox integration for sales productivity
+- Customized Pipeline Management flows and opportunity updates
+- Updated Opportunity page layouts with Notes related lists
+- Configured organization and user timezone settings for accurate automation timing
+
+## Key Skills Demonstrated
 
 - Salesforce AI configuration
 - Agentforce for Sales setup
@@ -159,7 +194,7 @@ This demonstrated how AI-powered sales automation can improve CRM accuracy and a
 - Sales process analysis
 - Enterprise workflow testing
 
-![Skills Demonstrated](./images/ai-02-skills-demonstrated.png)
+---
 
 ## Conclusions
 
@@ -168,8 +203,6 @@ This project demonstrated how Salesforce Agentforce Pipeline Management can enha
 Through this implementation, I gained hands-on experience configuring Salesforce AI tools, enabling automation features, testing intelligent workflows, and validating AI-generated opportunity updates.
 
 The project also reinforced how enterprise AI systems can reduce administrative workload, improve opportunity visibility, and help sales teams focus on higher-value customer interactions and revenue generation.
-
-![Project Conclusion](./images/ai-02-project-conclusion.png)
 
 
 ## Resources
