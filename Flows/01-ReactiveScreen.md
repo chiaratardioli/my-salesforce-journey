@@ -142,5 +142,5 @@ Overall, this module provided practical experience in building more interactive 
 
 ## References
 
-1. [Trailhead Module: Create a Reactive Screen](https://trailhead.salesforce.com/content/learn/projects/quick-start-build-reactive-screen-flows/create-a-reactive-screen?trailmix_creator_id=teamtrailhead&trailmix_slug=quest-tdx-2026)
+1. [Trailhead: Create a Reactive Screen](https://trailhead.salesforce.com/content/learn/projects/quick-start-build-reactive-screen-flows/create-a-reactive-screen?trailmix_creator_id=teamtrailhead&trailmix_slug=quest-tdx-2026)
 2. [Salesforce documentation: Make Your Screen Flows Reactive](https://help.salesforce.com/s/articleView?id=platform.flow_build_make_reactive.htm&language=en_US&type=5)
