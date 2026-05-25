@@ -2,37 +2,45 @@
 
 ## AI-Powered Salesforce Agents
 
-<p align="center">
+<p align="left">
   <a href="./AI%20Service%20Agent/readme.md">
-    <img src="./Badges/dfef956593fa0c51e2627e91364532f9_badge.webp" 
-         alt="Service Agent with Agentforce Builder" 
-         height="130">
+    <img src="./Badges/467e1cc12bc349695b833abc052fba3e_badge.webp"
+         alt="Service Agent with Agentforce Builder"
+         height="50"
+         style="vertical-align: middle;">
+    <span style="vertical-align: middle;">AI Agent for Service</span>
   </a>
-  <br>
-  <a href="./AI%20Service%20Agent/readme.md">AI Agent for Service</a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="./AI%20Sales%20Agent/readme.md">
-    <img src="./Badges/dfef956593fa0c51e2627e91364532f9_badge.webp" 
-         alt="Sales Pipeline Management with Agents" 
-         height="130">
+    <img src="./Badges/dfef956593fa0c51e2627e91364532f9_badge.webp"
+         alt="Sales Pipeline Management with Agents"
+         height="50"
+         style="vertical-align: middle;">
+    <span style="vertical-align: middle;">AI Agent for Sales</span>
   </a>
-  <br>
-  <a href="./AI%20Sales%20Agent/readme.md">AI Agent for Sales</a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="./AI%20Slack%20Agent/readme.md">
-    <img src="./Badges/trailhead_module_slackbot-quick-look.png" 
-         alt="Slackbot: AI Agent for Work" 
-         height="130">
+    <img src="./Badges/trailhead_module_slackbot-quick-look.png"
+         alt="Slackbot: AI Agent for Work"
+         height="50"
+         style="vertical-align: middle;">
+    <span style="vertical-align: middle;">AI Agent for Slack</span>
   </a>
-  <br>
-  <a href="./AI%20Slack%20Agent/readme.md">AI Agent for Slack</a>
 </p>
 
 
 ## Salesforce Flows
 
-- [FLOW: Reactive Screen](./Flows/01-ReactiveScreen.md)
+<p align="left">
+  <a href="./Flows/01-ReactiveScreen.md">
+    <img src="./Badges/fa28860026127df01691c632712c5691_badge.webp"
+         alt="Flows: Reactive Screen"
+         height="50"
+         style="vertical-align: middle;">
+    <span style="vertical-align: middle;">Reactive Screens for Flows</span>
+  </a>
+</p>
