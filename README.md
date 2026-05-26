@@ -21,6 +21,33 @@ This repository collects my Salesforce learning journey, practical exercises, AI
   </a>
 </p>
 
+## AI Certifications & Badges
+
+<img src="./Badges/2025-02_Badge_SF-Certified_Agentforce-Specialist_Low-Res.png"
+         alt="Salesforce Certified Agentforce Specialist"
+         height="120"
+         style="vertical-align: middle;"> 
+<img src="./Badges/8ea719e7-1730-48fd-9c7f-01d64ee2fa7d.png"
+         alt="Agentforce Implementation Expert"
+         height="120"
+         style="vertical-align: middle;">
+<img src="./Badges/27ece5a2-f6a4-43ae-b538-0382287fd126.png"
+         alt="Data Cloud Implementation Expert"
+         height="120"
+         style="vertical-align: middle;">
+<img src="./Badges/agentblazer-level-1.png"
+         alt="Agentblazer Status Level 1 - Champion"
+         height="120"
+         style="vertical-align: middle;">
+<img src="./Badges/agentblazer-level-2.png"
+         alt="Agentblazer Status Level 2 - Innovator"
+         height="120"
+         style="vertical-align: middle;">
+<img src="./Badges/agentblazer-level-3.png"
+         alt="Agentblazer Status Level 3 - Legend"
+         height="120"
+         style="vertical-align: middle;">
+         
 ## AI-Powered Salesforce Agents
 
 These projects focus on Agentforce AI agents, conversational automation, and intelligent CRM workflows.
@@ -82,33 +109,6 @@ Projects related to Salesforce Flow Builder, reactive screens, and user experien
     <span style="vertical-align: middle;">Reactive Screens for Flows</span>
   </a>
 </p>
-
-## AI Certifications & Badges
-
-<img src="./Badges/2025-02_Badge_SF-Certified_Agentforce-Specialist_Low-Res.png"
-         alt="Salesforce Certified Agentforce Specialist"
-         height="120"
-         style="vertical-align: middle;"> 
-<img src="./Badges/8ea719e7-1730-48fd-9c7f-01d64ee2fa7d.png"
-         alt="Agentforce Implementation Expert"
-         height="120"
-         style="vertical-align: middle;">
-<img src="./Badges/27ece5a2-f6a4-43ae-b538-0382287fd126.png"
-         alt="Data Cloud Implementation Expert"
-         height="120"
-         style="vertical-align: middle;">
-<img src="./Badges/agentblazer-level-1.png"
-         alt="Agentblazer Status Level 1 - Champion"
-         height="120"
-         style="vertical-align: middle;">
-<img src="./Badges/agentblazer-level-2.png"
-         alt="Agentblazer Status Level 2 - Innovator"
-         height="120"
-         style="vertical-align: middle;">
-<img src="./Badges/agentblazer-level-3.png"
-         alt="Agentblazer Status Level 3 - Legend"
-         height="120"
-         style="vertical-align: middle;">
 
 ## Areas of Interest
 
