@@ -192,6 +192,7 @@ The project also reinforced how AI assistants can reduce context switching, impr
 
 ## Resources
 - [Trailhead: Get Started with Slackbot](https://trailhead.salesforce.com/content/learn/modules/slackbot-quick-look/get-started-with-slackbot?trailmix_creator_id=teamtrailhead&trailmix_slug=quest-tdx-2026)
+- [Trailhead: Quick Start: Slackbot for Sales Planning](https://trailhead.salesforce.com/content/learn/modules/quick-start-slackbot-for-sales-planning?trailmix_creator_id=teamtrailhead&trailmix_slug=quest-tdx-2026)
 - [YouTube: Slack School | Meet Slackbot, Your AI Agent for Work](https://youtu.be/Y_4bX-Bp5s4?si=t_aakET2t6I4Jhh2)
 - [Slack Help Center: How to use Slackbot](https://slack.com/help/articles/202026038-How-to-use-Slackbot-%7C-Slack-Help)
 - [Slack Developers: Dear Slackbot](https://slack.dev/dear-slackbot/)
