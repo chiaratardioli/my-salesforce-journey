@@ -32,7 +32,7 @@
   </a>
 </p>
 
-## Machine Learning Technologies 
+## Machine Learning in Salesforce
 
 <p align="left">
   <a href="./AI%20Agentforce%20Grid/readme.md">
