@@ -11,7 +11,7 @@ Since then, I have earned:
 
 This repository collects my Salesforce learning journey, practical exercises, AI projects, Flow automations, Agentforce implementations, and integrations across the Salesforce ecosystem.
 
-<p align="left">
+<p align="center">
   <a href="https://www.salesforce.com/trailblazer/profile">
     <img src="./Badges/all-star-ranger.png"
          alt="Trailhead profile - All Start Ranger Rank"
