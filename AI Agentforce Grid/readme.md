@@ -8,7 +8,7 @@ Using a no-code workflow, I created an AI-powered process that retrieves account
 
 The project showcases how AI can transform raw CRM data into actionable business intelligence directly within the user workflow.
 
-![Agentforce Grid Overview](./images/ai-03-agentforce-grid-overview.png)
+![Agentforce Grid Overview](./images/ai-03-agentforce-grid-overview1.png)
 
 ## Project Objectives
 
@@ -57,7 +57,7 @@ I started by creating a new Agentforce Grid workflow named **Account Summary**.
 
 The goal of the grid was to automatically generate AI-powered summaries for Salesforce Account records.
 
-![Create Grid](./images/ai-03-create-grid.png)
+![Create Grid](./images/ai-03-create-grid1.png)
 
 ## Task 2 — Retrieve Salesforce Account Records
 
@@ -176,4 +176,5 @@ The experience strengthened my understanding of enterprise AI workflows, prompt-
 
 ## References
 - [Trailhead: Agentic Workflow Automation Quest](https://trailhead.salesforce.com/users/teamtrailhead/trailmixes/quest-agentic-workflow-automation)
+- [Agentforce Grid](https://trailhead.salesforce.com/content/learn/modules/agentforce-grid)
 - [Salesforce: Agentforce Grid](https://help.salesforce.com/s/articleView?id=ai.agentforce_grid.htm&type=5)
