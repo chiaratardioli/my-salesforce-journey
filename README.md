@@ -1,6 +1,29 @@
 # My Salesforce Journey
 
+Hi, I'm Chiara, and I started my Salesforce journey in 2022 when I enrolled in the **Bring Women Back to Work Program**.  
+What began as a new learning opportunity quickly became a passion for CRM, automation, AI, and cloud technologies within the Salesforce ecosystem.
+
+Since then, I have earned:
+
+- **6 Salesforce Certifications**
+- **600+ Trailhead Badges**
+- The **Trailhead All Star Ranger** rank
+
+This repository collects my Salesforce learning journey, practical exercises, AI projects, Flow automations, Agentforce implementations, and integrations across the Salesforce ecosystem.
+
+<p align="left">
+  <a href="https://www.salesforce.com/trailblazer/profile">
+    <img src="./Badges/all-star-ranger.png"
+         alt="Trailhead profile - All Start Ranger Rank"
+         height="120"
+         style="vertical-align: middle;">
+    <span style="vertical-align: middle;">Click here to view my Trahilhead profile</span>
+  </a>
+</p>
+
 ## AI-Powered Salesforce Agents
+
+These projects focus on Agentforce AI agents, conversational automation, and intelligent CRM workflows.
 
 <p align="left">
   <a href="./AI%20Service%20Agent/readme.md">
@@ -34,6 +57,8 @@
 
 ## Machine Learning Tools in Salesforce
 
+This section contains projects focused on AI-powered CRM enrichment and generative AI workflows.
+
 <p align="left">
   <a href="./AI%20Agentforce%20Grid/readme.md">
     <img src="./Badges/732eb92e604efccb5c58a58afa8a4cff_badge.webp"
@@ -45,6 +70,8 @@
 </p>
 
 ## Salesforce Flows
+
+Projects related to Salesforce Flow Builder, reactive screens, and user experience automation.
 
 <p align="left">
   <a href="./Flows/01-ReactiveScreen.md">
@@ -82,3 +109,19 @@
          alt="Agentblazer Status Level 3 - Legend"
          height="120"
          style="vertical-align: middle;">
+
+## Areas of Interest
+
+- Salesforce Administration
+- Agentforce AI
+- Flow Automation
+- Prompt Builder
+- Slack + Salesforce Integration
+- CRM Intelligence
+- AI-Powered Productivity
+- Sales Cloud
+- Service Cloud
+- Experience Cloud
+- Generative AI in CRM
+
+Thanks for visiting my Salesforce portfolio !
