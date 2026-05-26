@@ -6,7 +6,7 @@ This project explored how Slackbot integrates with Salesforce to provide AI-powe
 
 The project focused on integrating Slack with Salesforce CRM and using Slackbot as a context-aware AI assistant for sales preparation, opportunity analysis, and team collaboration.
 
-![Project Overview](./images/ai-02-project-overview.png)
+![Project Overview](./images/ai-03-project-overview.png)
 
 ---
 
@@ -69,7 +69,7 @@ I started by creating a new Trailhead Playground environment and retrieving the 
 
 I reset the Salesforce password, retrieved the My Domain URL, and prepared the CRM environment for secure authentication between Salesforce and Slack.
 
-![Salesforce Environment Setup](./images/ai-02-salesforce-environment-setup.png)
+![Salesforce Environment Setup](./images/ai-03-salesforce-environment-setup.png)
 
 ---
 
@@ -86,7 +86,7 @@ The opportunity data included:
 
 This created a realistic dataset for Slackbot to analyze during the AI-assisted sales planning workflow.
 
-![Opportunity Data Preparation](./images/ai-02-opportunity-data-preparation.png)
+![Opportunity Data Preparation](./images/ai-03-opportunity-data-preparation.png)
 
 ---
 
@@ -94,7 +94,7 @@ This created a realistic dataset for Slackbot to analyze during the AI-assisted 
 
 Next, I created a Slack Playground environment through the Slack Developer Program integrated with Trailhead.
 
-![Slack Playground Setup](./images/ai-02-slack-playground-setup.png)
+![Slack Playground Setup](./images/ai-03-slack-playground-setup.png)
 
 ---
 
@@ -112,7 +112,7 @@ The integration process included:
 
 This secure connection enabled Slackbot to retrieve Salesforce records and opportunity data directly inside Slack conversations.
 
-![Slack CRM Integration](./images/ai-02-slack-crm-integration.png)
+![Slack CRM Integration](./images/ai-03-slack-crm-integration.png)
 
 > **Warning:** The user is prompted to sign in to Salesforce through a pop-up authentication window before the integration can be completed.
 
@@ -131,9 +131,9 @@ I asked Slackbot to:
 
 Slackbot analyzed Salesforce CRM data and returned contextual summaries directly within Slack.
 
-![Slackbot Opportunity Summary](./images/ai-02-slackbot-opportunity-summary-1.png)
+![Slackbot Opportunity Summary](./images/ai-03-slackbot-opportunity-summary-1.png)
 
-![Slackbot Opportunity Summary](./images/ai-02-slackbot-opportunity-summary-2.png)
+![Slackbot Opportunity Summary](./images/ai-03-slackbot-opportunity-summary-2.png)
 
 ---
 
@@ -151,7 +151,7 @@ The generated canvas included:
 
 This demonstrated how AI-generated collaboration documents can help teams coordinate opportunity management and customer engagement workflows.
 
-![Slack Canvas Collaboration](./images/ai-02-slack-canvas-collaboration.png)
+![Slack Canvas Collaboration](./images/ai-03-slack-canvas-collaboration.png)
 
 ---
 
