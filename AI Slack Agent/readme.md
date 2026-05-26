@@ -6,7 +6,7 @@ This project explored how Slackbot integrates with Salesforce to provide AI-powe
 
 The project focused on integrating Slack with Salesforce CRM and using Slackbot as a context-aware AI assistant for sales preparation, opportunity analysis, and team collaboration.
 
-![Project Overview](./images/ai-03-project-overview.png)
+![Project Overview](./images/ai-03-project-overview1.png)
 
 ---
 
