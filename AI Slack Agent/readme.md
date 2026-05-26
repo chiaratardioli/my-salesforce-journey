@@ -22,8 +22,6 @@ The primary objectives of this project were:
 - Explore AI-assisted productivity workflows
 - Demonstrate secure enterprise AI integration
 
-![Project Objectives](./images/ai-02-project-objectives.png)
-
 ---
 
 ## Architecture
@@ -48,8 +46,6 @@ The primary objectives of this project were:
 
 The architecture demonstrated how Slackbot securely accessed Salesforce CRM data and combined it with workplace conversations to support AI-driven sales planning and collaboration workflows.
 
-![Slack Salesforce Architecture](./images/ai-02-slack-salesforce-architecture.png)
-
 ---
 
 ## Salesforce Technologies Used
@@ -65,8 +61,6 @@ The architecture demonstrated how Slackbot securely accessed Salesforce CRM data
 * Salesforce My Domain
 * Opportunity Management
 
-![Technologies Used](./images/ai-02-technologies-used.png)
-
 ---
 
 ## Task 1 — Prepare the Salesforce Environment
@@ -74,8 +68,6 @@ The architecture demonstrated how Slackbot securely accessed Salesforce CRM data
 I started by creating a new Trailhead Playground environment and retrieving the required Salesforce credentials and domain information needed for the Slack integration process.
 
 I reset the Salesforce password, retrieved the My Domain URL, and prepared the CRM environment for secure authentication between Salesforce and Slack.
-
-I also updated the United Oil Refinery Generators opportunity by extending the close date into the following month so Slackbot would have fresh opportunity data available for analysis.
 
 ![Salesforce Environment Setup](./images/ai-02-salesforce-environment-setup.png)
 
@@ -102,15 +94,6 @@ This created a realistic dataset for Slackbot to analyze during the AI-assisted 
 
 Next, I created a Slack Playground environment through the Slack Developer Program integrated with Trailhead.
 
-I configured the Slack workspace and prepared the environment for Salesforce CRM connectivity.
-
-This setup enabled the workspace to support:
-
-* Salesforce authentication
-* Slackbot AI functionality
-* CRM data retrieval
-* AI-powered collaboration features
-
 ![Slack Playground Setup](./images/ai-02-slack-playground-setup.png)
 
 ---
@@ -131,6 +114,8 @@ This secure connection enabled Slackbot to retrieve Salesforce records and oppor
 
 ![Slack CRM Integration](./images/ai-02-slack-crm-integration.png)
 
+> **Warning:** The user is prompted to sign in to Salesforce through a pop-up authentication window before the integration can be completed.
+
 ---
 
 ## Task 5 — Use Slackbot for Sales Planning
@@ -146,7 +131,9 @@ I asked Slackbot to:
 
 Slackbot analyzed Salesforce CRM data and returned contextual summaries directly within Slack.
 
-![Slackbot Opportunity Summary](./images/ai-02-slackbot-opportunity-summary.png)
+![Slackbot Opportunity Summary](./images/ai-02-slackbot-opportunity-summary-1.png)
+
+![Slackbot Opportunity Summary](./images/ai-02-slackbot-opportunity-summary-2.png)
 
 ---
 
@@ -179,8 +166,6 @@ This demonstrated how AI-generated collaboration documents can help teams coordi
 * Context-aware workplace collaboration
 * Secure enterprise data access
 
-![Key Features](./images/ai-02-key-features.png)
-
 ## Key Skills Demonstrated
 
 * Salesforce CRM integration
@@ -193,8 +178,6 @@ This demonstrated how AI-generated collaboration documents can help teams coordi
 * Secure CRM connectivity
 * Sales planning workflows
 * Cross-platform integration
-
-![Skills Demonstrated](./images/ai-02-skills-demonstrated.png)
 
 ---
 
