@@ -174,3 +174,6 @@ By combining Salesforce records, GPT-4o AI generation, and automated record upda
 
 The experience strengthened my understanding of enterprise AI workflows, prompt-driven automation, and scalable CRM intelligence solutions built entirely within the Salesforce ecosystem.
 
+## References
+- [Agentic Workflow Automation Quest](https://trailhead.salesforce.com/users/teamtrailhead/trailmixes/quest-agentic-workflow-automation)
+- [Salesforce Docs: Agentforce Grid](https://help.salesforce.com/s/articleView?id=ai.agentforce_grid.htm&type=5)
