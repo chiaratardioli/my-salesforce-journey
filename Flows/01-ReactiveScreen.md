@@ -9,7 +9,7 @@ improves usability, reduces unnecessary clicks, and creates a more intuitive exp
 During the project, I created a reactive screen flow for a support team case creation process. The flow included dynamic field behavior, 
 reactive formulas, calculated dates, and conditional visibility messages based on user interaction.
 
-![Flow Overview](./images/SF-01-flow-overview.png)
+![Flow Overview](./images/SF-01-flow-overview1.png)
 
 ---
 
