@@ -176,4 +176,4 @@ The experience strengthened my understanding of enterprise AI workflows, prompt-
 
 ## References
 - [Trailhead: Agentic Workflow Automation Quest](https://trailhead.salesforce.com/users/teamtrailhead/trailmixes/quest-agentic-workflow-automation)
-- [Salesforce Docs: Agentforce Grid](https://help.salesforce.com/s/articleView?id=ai.agentforce_grid.htm&type=5)
+- [Salesforce: Agentforce Grid](https://help.salesforce.com/s/articleView?id=ai.agentforce_grid.htm&type=5)
