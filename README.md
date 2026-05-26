@@ -83,7 +83,7 @@ Projects related to Salesforce Flow Builder, reactive screens, and user experien
   </a>
 </p>
 
-## AI Certifications
+## AI Certifications & Badges
 
 <img src="./Badges/2025-02_Badge_SF-Certified_Agentforce-Specialist_Low-Res.png"
          alt="Salesforce Certified Agentforce Specialist"
