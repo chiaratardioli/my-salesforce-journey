@@ -25,9 +25,11 @@ I started by creating a new Screen Flow in Flow Builder. I added a screen named 
 
 The Priority field used a Picklist Choice Set connected to the `Case.Priority` field.
 
+![Initial Screen Components](./images/SF-01-initial-screen-components.png)
+
 After creating the components, I saved the flow as **New Bug Case**.
 
-![Initial Screen Components](./images/SF-01-initial-screen-components.png)
+![Initial Screen Components](./images/SF-01-new-bug-case-flow.png)
 
 ---
 
