@@ -35,10 +35,10 @@
 <p align="left">
   <a href="./AI%20Agentforce%20Grid/readme.md">
     <img src="./Badges/732eb92e604efccb5c58a58afa8a4cff_badge.webp"
-         alt="AI Agentforce Grid"
+         alt="Agentforce Grid"
          height="50"
          style="vertical-align: middle;">
-    <span style="vertical-align: middle;">AI Agentforce Grid</span>
+    <span style="vertical-align: middle;">Agentforce Grid</span>
   </a>
 </p>
 
