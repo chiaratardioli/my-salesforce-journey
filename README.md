@@ -21,8 +21,28 @@ This repository collects my Salesforce learning journey, practical exercises, AI
   </a>
 </p>
 
+## Core Certifications
+
+<img src="./Badges/2021-03_Badge_SF-Certified_Administrator_500x490px.png"
+         alt="Salesforce Certified Administrator"
+         height="120"
+         style="vertical-align: middle;"> 
+<img src="./Badges/platform-app-builder.png"
+         alt="Salesforce Certified App Builder"
+         height="120"
+         style="vertical-align: middle;"> 
+<img src="./Badges/service-cloud.png"
+         alt="Salesforce Certified Service Cloud Consultant"
+         height="120"
+         style="vertical-align: middle;"> 
+
+
 ## AI Certifications & Badges
 
+<img src="./Badges/ai-associate.png"
+         alt="Salesforce Certified AI Associate (retired)"
+         height="120"
+         style="vertical-align: middle;"> 
 <img src="./Badges/2025-02_Badge_SF-Certified_Agentforce-Specialist_Low-Res.png"
          alt="Salesforce Certified Agentforce Specialist"
          height="120"
