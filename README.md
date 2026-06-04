@@ -35,7 +35,10 @@ This repository collects my Salesforce learning journey, practical exercises, AI
          alt="Salesforce Certified Service Cloud Consultant"
          height="120"
          style="vertical-align: middle;"> 
-
+<img src="./Badges/data-cloud.png"
+         alt="Salesforce Certified Data Cloud Consultant"
+         height="120"
+         style="vertical-align: middle;"> 
 
 ## AI Certifications & Badges
 
